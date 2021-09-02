@@ -7,9 +7,9 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Seongho An
-  desc: Hello nice to meet you
+  desc: Hello nice to meet you!
   email: hohoan05@gmail.com
-  selfie: assets/img/profile.jpg
+  selfie: assets/img/profile.PNG
 
 # social
 social:
@@ -19,7 +19,7 @@ social:
   dribbble:
   facebook: Test
   flickr:
-  github: kssim
+  github: SeonghoAn
   google_plus:
   instagram:
   keybase:
