@@ -20,7 +20,7 @@ Time Seires Forecasting
 
 <br/>
 
-# Skill
+# Skills
 Python
 
 C/C++
