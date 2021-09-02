@@ -11,15 +11,20 @@ layout: about
 
 # Interests
 Artificial Intelligence in Healthcare
+
 Machine Learning
+
 Deep Learning
+
 Time Seires Forecasting
 
 <br/>
 
 # Skill
 Python
+
 C/C++
+
 JAVA
 
 <br/>
